@@ -29,7 +29,8 @@
 
 	Egg sister's version:
 	我的目标是让我的同学们能临听到更多非常棒的想法，他们可能来自于社会各界，也可能来自于我们之中。也许这些想法就能激发出更多更好的想法
-
+	
+	My goal to host this TEDx event it to make my classmate hear more impressive idea, those idea may come from the social from all walks of life, or may come frome us.
 	-------------------
 
 	CircuitCoder's version:
@@ -48,7 +49,7 @@
 =========================================================
 
 6.What do we need to know about you that we didn't ask?
-
+	我来自我们中学的信息技术社团，对于科技这方面非常感兴趣。很久以前我就了解到TED以及TEDx，并且从那时起我就经常在网上看TED的演讲。本人一直期望着有一天可以在自己的地盘host一个tedx，因为我希望我周围有更多的人在我的带领下认识TED认识TEDx。TED演讲中前卫的思想和先进的科技一定会有很大影响。
 
 =========================================================
 
